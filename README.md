@@ -27,21 +27,20 @@ Sistemas de protección y Mecanismos de Acción
 
 ### Vista Principal
 
-![Vista principal](./imagenes/Captura de pantalla 2025-11-08 a la(s) 8.51.23 p.m.)
+![Vista principal](./Imagenes/Pagina_principal.png)
 
 
 ---
 
 ## 📦 Instalación
 
-1. Clona este repositorio:
-    git clone https://github.com/estudianteoscar/Bicicletas.git
-2. Copia el script de la base de datos incluido en el repositorio e impórtalo usando phpMyAdmin o tu herramienta de gestión de base de datos preferida.
-3. Coloca la carpeta del proyecto en el siguiente directorio:
-   C:\xampp\htdocs\
-4. Abre el proyecto en PhpStorm o cualquier IDE compatible con PHP.
-5. Abre tu navegador web (se recomienda Firefox) y accede a:
-   http://localhost/Bicicletas/
+*Opcional 
+
+1. Tener instalado git en el equipo *
+2. Clona este repositorio: 
+    git clone https://github.com/estudianteoscar/Pagina-web.git *
+3. Descargar el repositorio en formato zip
+4. Descomprimir el archivo y doble click en index.html
 
 ---
 
@@ -49,12 +48,7 @@ Sistemas de protección y Mecanismos de Acción
 
     GitHub: @estudianteoscar
 
----
 
-🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas!
-Si tienes sugerencias, problemas o deseas añadir nuevas funcionalidades, no dudes en abrir un issue o enviar un pull request.
 
 
 
