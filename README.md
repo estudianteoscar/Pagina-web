@@ -39,8 +39,12 @@ Sistemas de protección y Mecanismos de Acción
 1. Tener instalado git en el equipo *
 2. Clona este repositorio: 
     git clone https://github.com/estudianteoscar/Pagina-web.git *
+---
 3. Descargar el repositorio en formato zip
-4. Descomprimir el archivo y doble click en index.html
+![Download repository](./Imagenes/Descargar_repositorio.png)
+--- 
+4. Descomprimir el archivo
+5. Ingresar a la carpeta Pagina-web y ejecutar index.html 
 
 ---
 
